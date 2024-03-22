@@ -1,0 +1,32 @@
+body {
+  /* set margin to 0 and overflow to hidden, to go fullsc{reen */
+  margin: 0;
+  overflow: hidden;
+  background-color: #000000;
+  color: white;
+}
+#info {
+  font-family: monospace;
+  font-weight: normal;
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  width: 100%;
+  text-align: center;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  font-size: 14px;
+}
+
+
+#joystick {
+  display: none;
+}
+
+#info span {
+  color: wheat;
+}
+
+#info span {
+  color: wheat;
+}
